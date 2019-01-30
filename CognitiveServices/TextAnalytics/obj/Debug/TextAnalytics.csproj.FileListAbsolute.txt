@@ -1,0 +1,16 @@
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\TextAnalytics.exe.config
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\TextAnalytics.exe
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\TextAnalytics.pdb
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.xml
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\obj\Debug\TextAnalytics.csprojAssemblyReference.cache
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\obj\Debug\TextAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\obj\Debug\TextAnalytics.csproj.CopyComplete
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\obj\Debug\TextAnalytics.exe
+C:\Users\raiy\source\repos\CognitiveServices\TextAnalytics\obj\Debug\TextAnalytics.pdb

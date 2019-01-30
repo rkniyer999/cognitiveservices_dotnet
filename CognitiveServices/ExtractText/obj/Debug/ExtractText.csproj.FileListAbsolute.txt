@@ -1,0 +1,16 @@
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\obj\Debug\ExtractText.csprojAssemblyReference.cache
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\obj\Debug\ExtractText.csproj.CoreCompileInputs.cache
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\ExtractText.exe.config
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\ExtractText.exe
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\ExtractText.pdb
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\obj\Debug\ExtractText.csproj.CopyComplete
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\obj\Debug\ExtractText.exe
+C:\Users\raiy\source\repos\CognitiveServices\ExtractText\obj\Debug\ExtractText.pdb

@@ -1,0 +1,16 @@
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\CognitiveServices.exe.config
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\CognitiveServices.exe
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\CognitiveServices.pdb
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.xml
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\obj\Debug\AnalyzeImage.csproj.CoreCompileInputs.cache
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\obj\Debug\AnalyzeImage.csproj.CopyComplete
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\obj\Debug\CognitiveServices.exe
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\obj\Debug\CognitiveServices.pdb
+C:\Users\raiy\source\repos\CognitiveServices\CognitiveServices\obj\Debug\AnalyzeImage.csprojAssemblyReference.cache
